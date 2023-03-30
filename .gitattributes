@@ -1,0 +1,3 @@
+config.txt merge=ours
+#*.txt binary
+config/** binary

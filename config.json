@@ -1,0 +1,8 @@
+{
+	"ENV":"PRODUCTION",
+	"CELL":"PRODUCTION",
+	"IP":"C000004",
+	"AMS":"10.38.190.201",
+	"OPC_UA":"opc.tcp://10.38.190.201:4840",
+	"STATION1":"S000003",
+}

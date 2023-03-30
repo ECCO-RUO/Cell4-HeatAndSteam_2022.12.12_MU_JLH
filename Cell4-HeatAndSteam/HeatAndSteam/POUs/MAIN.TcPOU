@@ -17,6 +17,10 @@ VAR
 	bInitDone 				: BOOL;
 	
 END_VAR
+
+// test branch merge develop 
+// test branch merge develop
+// test branch merge develop
 ]]></Declaration>
     <Implementation>
       <ST><![CDATA[
